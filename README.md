@@ -81,7 +81,7 @@ Download Wabbajack from the home page (blue download button) https://www.wabbaja
 
 Place Wabbjack.exe in a new root folder on one of your drives (e.g. E:/Wabbajack).  Run this exe and then once Wabbajack is fully installed select the big Install From Disk option in the middle.  You’ll then have to specify 3 paths for install.
 
-Target Modlist:  Download the wabbjack file for this unofficial modlist [from here](https://drive.google.com/file/d/1oTL6cLFh6rwTFB1khsoxg7dDH36EMmXA/view?usp=sharing) and then specify its path on your computer here (e.g. E:/Wabbajack/Whispering Chills Unofficial.wabbajack) --> This will be updated to refer to the WJ UI if it becomes official
+Target Modlist:  Download the wabbjack file for this unofficial modlist [from here](https://drive.google.com/drive/folders/1B3PAale0jS69i9SUBW2ItAX8urDFHydb?usp=sharing) and then specify its path on your computer here (e.g. E:/Wabbajack/Whispering Chills Unofficial.wabbajack) --> This will be updated to refer to the WJ UI if it becomes official
 
 Installation Location:  The location where this modlist will install to.  Create a new root folder ideally on the same drive as where you have Fallout 4 and Wabbajack installed and path to this folder here (e.g.  E:/Whispering Chills)
 
