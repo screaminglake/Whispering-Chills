@@ -3,11 +3,11 @@
 
 # Preface
 
-Preview images:  https://www.nexusmods.com/fallout4/mods/48593?tab=images
+[Preview images](https://www.nexusmods.com/fallout4/mods/48593?tab=images)
 
-Trailer/video footage:  https://youtu.be/Ux0z3Ul9R3g 
+[Trailer/video footage](https://youtu.be/Ux0z3Ul9R3g) 
 
-Wabbajack file:  https://drive.google.com/drive/folders/1B3PAale0jS69i9SUBW2ItAX8urDFHydb?usp=sharing  
+[Wabbajack file](https://drive.google.com/drive/folders/1B3PAale0jS69i9SUBW2ItAX8urDFHydb?usp=sharing) 
 
 Whispering Chills is a horror experience unlike any other.  It is intended to be entirely standalone in that you don't need to enjoy or know very well how to play Fallout 4 to be able to enjoy it as a horror fan in general.  Perfect for anyone experiencing burnout in their other modded setups.  It is about as "lore-unfriendly" as you can get purely using the engine as a vessel to craft an entirely new experience through a unique combination of mods that enhance/rework its core mechanics and add new content that entirely change its core focus.  Unlike most other Bethesda games where the horror element feels tacked on at best even using mods, the amazing modding community around this game has afforded us the opportunity to overhaul the Fallout 4 experience into an entirely unique other experience.  The core premise revolves around an alternate vision of the Commonwealth where a door to the paranormal dimension has allowed for literal hell on earth to take over and has left very little remains in its wake.  Your ultimate goal and place in this hellscape is for you to decide.  
 
@@ -15,7 +15,7 @@ We've stripped away several trademarks of the base game to distinguish this as a
 
 This modlist is adapted from the manual version of the guide that I have created and maintained over the past year and which has been enjoyed and tested by thousands, so expect a certain degree of established quality here already given that context.
 
-https://www.nexusmods.com/fallout4/mods/48593 
+[Whispering Chills manual guide](https://www.nexusmods.com/fallout4/mods/48593) 
 
 
 My computer specs for reference:
@@ -47,7 +47,7 @@ As with any modlist, it is recommended you start with a clean install.  Uninstal
 
 **If you only have one hard drive for your computer (the OS drive) and your Steam games install to the default location in a Windows-protected folder:**
 
-* Use this tool to create a new Steam library in a non-protected location on the same drive as your current library.  By default, Steam only ﻿allows you to have one Steam library instance to install games to on a single drive so this is the only safe way to create a new library ﻿outside protected folders for those who only have a single hard drive.  After the new Steam library is created, install Fallout 4 from the Library section of Steam where all your games are listed and specify this new library folder as the install location.
+* Use [this tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) to create a new Steam library in a non-protected location on the same drive as your current library.  By default, Steam only ﻿allows you to have one Steam library instance to install games to on a single drive so this is the only safe way to create a new library ﻿outside protected folders for those who only have a single hard drive.  After the new Steam library is created, install Fallout 4 from the Library section of Steam where all your games are listed and specify this new library folder as the install location.
 
 In either case, **make sure you LAUNCH Fallout 4 through steam when installation is finished** to allow the game to set registry keys and create the initial game configuration ini's.  You should see a popup notifying you that the launcher is configuring your settings based on a preset that matches your hardware.  After clicking OK to the popup, launch the game to the main menu and exit.
 
@@ -60,14 +60,20 @@ Lastly, right-click on the listing for Fallout 4 in the Library tab of Steam and
 
 [NVIDIA Users Only to Improve game Performance] – If you do not have a NVIDIA graphics card, you will have to force vsync via your graphics settings or via ENB or High FPS Physics Fix if you notice screen tearing.  I realize this is not a traditional part of any modded setup, however it is something that I have always done in my modded setups to beneficial results and the expectation of stability predicates itself on using this profile at least in part.
 
-Download the nvidiaProfileInspector.zip from the Latest Release 2.3.0.12 section. Using 7-Zip, extract the nvidiaProfileInspector.zip archive anywhere.
+Download the [nvidiaProfileInspector.zip](https://github.com/Orbmu2k/nvidiaProfileInspector/releases/tag/2.3.0.12) from the Latest Release 2.3.0.12 section. 
 
-Next, download the FIRST file under the last section of the Files tab for the BRB guide (Miscellaneous Files) - NVIDIA Inspector Profile - FO4﻿.  Using 7-Zip, extract the 1. Nvidia Inspector Profile - FO4-23556-1-0-1559298967 archive. Double click on the extracted 1. Nvidia Inspector Profile - FO4-23556-1-0-1559298967 folder and right click on Fallout 4 Nvidia Inspector.nip file and select Copy. Now go back to where you extracted the FO4 Nvidia Profile Inspector archive, double click on FO4 Nvidia Profile Inspector folder to open it, then right click on an unused space and select Paste (Copy and Replace – if asked).
+Using any archive extraction software such as Winrar or 7-zip, extract the nvidiaProfileInspector.zip archive anywhere.
 
-Now that you have the FO4 Nvidia Profile Inspector folder open, double click on the nvidiaProfileInspector.exe file. In the application, on the Profiles Search Bar in the top left corner, type and select Fallout 4. Between the Icons line on the Middle Top click on the icon with a green arrow pointing down, then select the Import Profile(s) option and find the inspector profile you downloaded from the BRB guide page (reference image). Now if in the Green Bar on top of the Nvidia Inspector window you see the f4se_loader.exe (as shown in the image) you can click the big green Apply Changes button in the top right corner and close the program. If it's not there, click on the Middle Top icon with a little green plus and find the f4se_launcher.exe file that should be in your fallout 4 main folder, then click Apply Changes in the top right corner and close the program.
+Next, download the **FIRST** file under the last section of the Files tab for the BRB guide (Miscellaneous Files) - [NVIDIA Inspector Profile - FO4](https://www.nexusmods.com/fallout4/mods/23556?tab=files).  
+
+Using 7-Zip, extract the 1. Nvidia Inspector Profile - FO4-23556-1-0-1559298967 archive. Double click on the extracted 1. Nvidia Inspector Profile - FO4-23556-1-0-1559298967 folder and right click on Fallout 4 Nvidia Inspector.nip file and select Copy. Now go back to where you extracted the FO4 Nvidia Profile Inspector archive, double click on FO4 Nvidia Profile Inspector folder to open it, then right click on an unused space and select Paste (Copy and Replace – if asked).
+
+Now that you have the FO4 Nvidia Profile Inspector folder open, double click on the nvidiaProfileInspector.exe file. In the application, on the Profiles Search Bar in the top left corner, type and select Fallout 4. Between the Icons line on the Middle Top click on the icon with a green arrow pointing down, then select the Import Profile(s) option and find the inspector profile you downloaded from the BRB guide page [reference image](https://imgur.com/hPCu1JG). 
+
+Now if in the Green Bar on top of the Nvidia Inspector window you see the f4se_loader.exe (as shown in the previous reference image) you can click the big green Apply Changes button in the top right corner and close the program. If it's not there, click on the Middle Top icon with a little green plus and find the f4se_launcher.exe file that should be in your fallout 4 main folder, then click Apply Changes in the top right corner and close the program.
 
 
-Lastly, run this AIO installer for all versions of Visual Studio C++ to ensure Buffout and all other utilities run as intended:  https://github.com/abbodi1406/vcredist/releases (download the zip file for the latest listed release and then run the exe within the zip file and restart your computer when finished)
+Finally, before installing Whispering Chills, **run this AIO installer** for all versions of Visual Studio C++ to ensure Buffout and all other utilities run as intended:  https://github.com/abbodi1406/vcredist/releases (download the zip file for the latest listed release and then run the exe within the zip file and restart your computer when finished)
 
 # Installing the Modlist
 
@@ -75,7 +81,7 @@ Download Wabbajack from the home page (blue download button) https://www.wabbaja
 
 Place Wabbjack.exe in a new root folder on one of your drives (e.g. E:/Wabbajack).  Run this exe and then once Wabbajack is fully installed select the big Install From Disk option in the middle.  You’ll then have to specify 3 paths for install.
 
-Target Modlist:  Download the wabbjack file for this unofficial modlist from here and then specify its path on your computer here (e.g. E:/Wabbajack/Whispering Chills Unofficial.wabbajack) --> This will be updated to refer to the WJ UI if it becomes official
+Target Modlist:  Download the wabbjack file for this unofficial modlist [from here](https://drive.google.com/file/d/1oTL6cLFh6rwTFB1khsoxg7dDH36EMmXA/view?usp=sharing) and then specify its path on your computer here (e.g. E:/Wabbajack/Whispering Chills Unofficial.wabbajack) --> This will be updated to refer to the WJ UI if it becomes official
 
 Installation Location:  The location where this modlist will install to.  Create a new root folder ideally on the same drive as where you have Fallout 4 and Wabbajack installed and path to this folder here (e.g.  E:/Whispering Chills)
 
@@ -93,7 +99,7 @@ Now go to the folder where you installed this modlist to and open the folder wit
 
 To actually play Whispering Chills, launch ModOrganizer.exe from within the installation directory for this modlist.  It should default to F4SE as the executable in the top-right corner of MO2.  **Make sure the listed profile is Whispering Chills - Main Profile!**  Click the Run button to launch Whispering Chills!
 
-Please note that this setup defaults to 1440p resolution.  If you only have a 1080p monitor, open MO2’s INI editor and switch the isizeH and isizeW values to match those of your monitor under the [Display] section of the fallout4prefs.ini tab (reference image).
+Please note that this setup defaults to 1440p resolution.  If you only have a 1080p monitor, open MO2’s INI editor and switch the isizeH and isizeW values to match those of your monitor under the [Display] section of the fallout4prefs.ini tab [reference image](https://imgur.com/f64WmSQ).
 
 
 # Updates (written for official release if approved)
@@ -113,29 +119,29 @@ After exiting the vault, DO NOT MOVE!  Configure the following holotape settings
 
 #### SKK Feral Nights Holotape
 
-You must first enable this mod by opening the holotape for it under the Misc tab.  Each option is up to your preference, however I recommend disabling the spawn in interiors option as it gets to be too overwhelming in my opinion.  When you are done setting options you must click Submit Changes at the bottom to fully activate the mod.
+You must first enable this mod by opening the holotape for it under the Misc tab.  Each option is up to your preference, however **I recommend disabling the spawn in interiors option** as it gets to be too overwhelming in my opinion.  When you are done setting options you must click Submit Changes at the bottom to fully activate the mod.
 
 #### SKK Random Encounter Manager Holotape
 
-Enable this mod by activating it from its holotape under the Misc tab.  You must set the line that reads Spawn Only Ferals from OFF to ON otherwise this mod will spawn in humans and other entities we don't want (see reference image).  Every other option is up to your preference.  You can leave everything at default if you want, but it is recommended you set Spawn Cooldown to more than 1 hour or lower the Spawn Chance percentage value unless you want very frequent random encounters. 
+Enable this mod by activating it from its holotape under the Misc tab.  You must set the line that reads Spawn Only Ferals from OFF to ON otherwise this mod will spawn in humans and other entities we don't want [see reference image](https://imgur.com/B36HskX).  Every other option is up to your preference.  You can leave everything at default if you want, but it is recommended you set Spawn Cooldown to more than 1 hour or lower the Spawn Chance percentage value unless you want very frequent random encounters. 
 
 #### SKK Actor Replace & Respawn Manager Holotape
 
 Enable this mod by activating it from its holotape under the Misc tab in the Pipboy.  Now very carefully follow the steps below to correctly configure the mod to replace vanilla actors with custom actors from mods installed in the guide.
 
-1.  Activate the mod with the option that appears when you open the holotape.  Then set everything in the initial menu as shown in this image and click submit changes at the bottom.
+1.  Activate the mod with the option that appears when you open the holotape.  Then set everything in the initial menu as shown in [this image](https://imgur.com/dqedtrh) and click submit changes at the bottom.
 
-2.  Click the actor keywords menu listed at the bottom after submitting changes and set it exactly as shown in this image (the only change you need to make is to click on the last line in this menu for custom keyword files so it shows it as SELECTED) and then submit changes
+2.  Click the actor keywords menu listed at the bottom after submitting changes and set it exactly as shown in [this image](https://imgur.com/2l2iNjs) (the only change you need to make is to click on the last line in this menu for custom keyword files so it shows it as SELECTED) and then submit changes
 
-3.  Lastly go to the replacement actors menu and scroll to the bottom to change the custom actor file line to ENABLED as shown in this image and then submit changes.  You can now close the holotape.
+3.  Lastly go to the replacement actors menu and scroll to the bottom to change the custom actor file line to ENABLED as shown in [this image](https://imgur.com/ZLf9BHk) and then submit changes.  You can now close the holotape.
 
 ### Fallout 4-76 Open World Holotape
 
-Tweak all settings in this holotape exactly as shown in this image .  Setting everything exactly as shown here is vitally important.  You will have to click on the top replace humans with option several times to reach the CUSTOM option.  All other options in the holotape not shown in this image are entirely up to your preferences.  When finished click ENABLE Fallout 4-76 Open World [GO] at the bottom.  After you click Enable Fallout 4-76 Open World in the holotape, you will see a text popup that says "Fallout 4-76 is Preparing the Open World" in the top left corner.  This will continue to appear every few seconds until it is finished (typically takes 2-3 minutes).  Do not move while you are waiting and instead proceed to configure the settings below while you wait.  When it finishes you will see a new text popup appear that says Fallout 4-76 Open World is Ready (reference image).
+Tweak all settings in this holotape [exactly as shown in this image](https://imgur.com/iZSxlSW) .  Setting everything exactly as shown here is vitally important.  You will have to click on the top replace humans with option several times to reach the CUSTOM option.  All other options in the holotape not shown in this image are entirely up to your preferences.  When finished click ENABLE Fallout 4-76 Open World [GO] at the bottom.  After you click Enable Fallout 4-76 Open World in the holotape, you will see a text popup that says "Fallout 4-76 is Preparing the Open World" in the top left corner.  This will continue to appear every few seconds until it is finished (typically takes 2-3 minutes).  Do not move while you are waiting and instead proceed to configure the settings below while you wait.  When it finishes you will see a new text popup appear that says Fallout 4-76 Open World is Ready [reference image](https://imgur.com/a/8N0spus).
 
 #### Whispering Hills Holotape
 
-Whispering Hills has a holotape where you can configure settings related to the Otherworld.  You can either craft it at a chemistry station or the Universal Workbench or open console (~ tilde key) and type help whispering 4 note and then player.additem <item ID> (using the 8 digit ID returned from the help command) to spawn it via console and have it appear in the Misc tab of your pip-boy (see reference image).  The otherworld is when the Hell Dimension temporarily opens and waves of creatures will attack you in complete darkness.  The only way to escape is to hide inside a building and sleep until it (hopefully) goes away or kill each wave of the attacking horde.  You can increase/decrease the frequency of this event as well as the number of spawned NPC's per wave if you feel the default settings are too intense or not intense enough.  I would recommend you not mess with anything under the tabs not related to the Otherworld as this may affect visuals or settings in ways that were not intended or optimized for the provided ENB/visual setup.
+Whispering Hills has a holotape where you can configure settings related to the Otherworld.  You can either craft it at a chemistry station or the Universal Workbench or open console (~ tilde key) and type help whispering 4 note and then player.additem <item ID> (using the 8 digit ID returned from the help command) to spawn it via console and have it appear in the Misc tab of your pip-boy [see reference image](https://imgur.com/pDzUGT2).  The otherworld is when the Hell Dimension temporarily opens and waves of creatures will attack you in complete darkness.  The only way to escape is to hide inside a building and sleep until it (hopefully) goes away or kill each wave of the attacking horde.  You can increase/decrease the frequency of this event as well as the number of spawned NPC's per wave if you feel the default settings are too intense or not intense enough.  I would recommend you not mess with anything under the tabs not related to the Otherworld as this may affect visuals or settings in ways that were not intended or optimized for the provided ENB/visual setup.
 
 ## MCM Configuration
 
