@@ -255,5 +255,5 @@ Manually download all 15 main file archives from Luxor's Fallout 4 HD Overhaul. 
   Ping me in (TBD WJ SUPPORT CHANNEL IF APPROVED)
   
   # Changelog
-  See changelog.md
+  See [changelog.md](https://github.com/screaminglake/Whispering-Chills/blob/main/changelog.md)
 
