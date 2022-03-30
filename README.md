@@ -1,4 +1,4 @@
-# Whispering-Chills
+# Whispering Chills
 
 
 # Preface
