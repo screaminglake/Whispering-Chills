@@ -179,7 +179,7 @@ General tips for saving performance on EITHER profile:
 
 ## Buffout and Crash Logs
 
-If at any time you crash while playing this setup, a crash log will be produced by Buffout in your Documents\My Games\Fallout4\F4SE folder and will be named something along the lines of crash-2020-12-04-23-32-30.log.  Please share these with me in #unofficial-modlist-support and I will attempt to troubleshoot the cause.  I haven’t come across any repeatable, avoidable crashes yet in the latest version of this modlist!
+If at any time you crash while playing this setup, a crash log will be produced by Buffout in your Documents\My Games\Fallout4\F4SE folder and will be named something along the lines of crash-2020-12-04-23-32-30.log.  Please share these with me in #unofficial-modlist-support **(update to support channel if approved as official)** and I will attempt to troubleshoot the cause.  I haven’t come across any repeatable, avoidable crashes yet in the latest version of this modlist!
 
 ## Adding mods to the modlist (weapons)
 
