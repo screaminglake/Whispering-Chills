@@ -1,5 +1,5 @@
 # Whispering-Chills
-Repository for Whispering Chills Fallout 4 guide
+
 
 # Preface
 
@@ -37,11 +37,11 @@ With this modlist, I sit above 60 FPS in every area that I can otherwise in vani
 
 # Before You Install
 
-As with any modlist, it is recommended you start with a clean install.  Uninstall Fallout 4 through Steam if it's already installed (yes even if you already have a modded setup this is the safest approach then proceed to Documents/My Games/Fallout 4 in File Explorer and delete everything inside that folder.  Then navigate to wherever you have installed Fallout 4 (steam/steamapps/common/Fallout 4) and delete everything left inside that folder.  Now you must install Fallout 4 in a non-Windows Protected folder (NOT within Program Files, Program Files x86, Documents, Desktop, or any other other protected folders on the OS/C Drive).  The default install location for Steam games is in a Windows-protected folder Program Files (x86) which we do NOT want as it can cause many issues with permissions and read/write access to your game files.  If you already have a Steam Library set outside this default location, you can simply install Fallout 4 there.  If you currently only have a Steam Library created with games being installed to the default Windows-protected folder on your C drive, please follow the steps below based on whether or not you have a separate hard drive from your OS drive.
+As with any modlist, it is recommended you start with a clean install.  Uninstall Fallout 4 through Steam if it's already installed (yes even if you already have a modded setup this is the safest approach) then **proceed to Documents/My Games/Fallout 4 in File Explorer and delete everything inside that folder**.  Then **navigate to wherever you have installed Fallout 4 (steam/steamapps/common/Fallout 4) and delete everything left inside that folder**.  Now you must install Fallout 4 in a non-Windows Protected folder (**NOT** within Program Files, Program Files x86, Documents, Desktop, or any other other protected folders on the OS/C Drive).  The default install location for Steam games is in a Windows-protected folder Program Files (x86) which we do NOT want as it can cause many issues with permissions and read/write access to your game files.  If you already have a Steam Library set outside this default location, you can simply install Fallout 4 there.  If you currently only have a Steam Library created with games being installed to the default Windows-protected folder on your C drive, please follow the steps below based on whether or not you have a separate hard drive from your OS drive.
 
 **If you have another hard drive in addition to your OS drive:**
 
-* Open Steam and click on Steam in the top left corner then click on Settings.  Go to the downloads tab listed on the left panel that opens and select the     Steam Library Folders option.  When the popup appears, click on the plus button to the right of any listed drives and then create a NEW FOLDER on any of the other drives (not your native C Drive where steam default installs to) and click select.  A new steam library folder will be created on your other drive in this new folder (reference      image).
+* Open Steam and click on Steam in the top left corner then click on Settings.  Go to the downloads tab listed on the left panel that opens and select the     Steam Library Folders option.  When the popup appears, click on the plus button to the right of any listed drives and then create a NEW FOLDER on any of the other drives (not your native C Drive where steam default installs to) and click select.  A new steam library folder will be created on your other drive in this new folder ([click here for reference image](https://imgur.com/KiuYDe2/)).
 
 * Navigate to the Library section of Steam where all of your games are listed and click Fallout 4 then choose to Install Fallout 4 as per usual, but when prompted to choose an install location, specify the new SteamLibrary folder you just created on a separate hard drive instead of the default location on your OS drive and proceed to install as per usual.
 
@@ -56,9 +56,11 @@ Lastly, right-click on the listing for Fallout 4 in the Library tab of Steam and
 
 
 
-### NVIDIA Profile Inspector
+## NVIDIA Profile Inspector
 
-[NVIDIA Users Only to Improve game Performance] – If you do not have a NVIDIA graphics card, you will have to force vsync via your graphics settings or via ENB or High FPS Physics Fix if you notice screen tearing.  Download the nvidiaProfileInspector.zip from the Latest Release 2.3.0.12 section. Using 7-Zip, extract the nvidiaProfileInspector.zip archive anywhere.
+[NVIDIA Users Only to Improve game Performance] – If you do not have a NVIDIA graphics card, you will have to force vsync via your graphics settings or via ENB or High FPS Physics Fix if you notice screen tearing.  I realize this is not a traditional part of any modded setup, however it is something that I have always done in my modded setups to beneficial results and the expectation of stability predicates itself on using this profile at least in part.
+
+Download the nvidiaProfileInspector.zip from the Latest Release 2.3.0.12 section. Using 7-Zip, extract the nvidiaProfileInspector.zip archive anywhere.
 
 Next, download the FIRST file under the last section of the Files tab for the BRB guide (Miscellaneous Files) - NVIDIA Inspector Profile - FO4﻿.  Using 7-Zip, extract the 1. Nvidia Inspector Profile - FO4-23556-1-0-1559298967 archive. Double click on the extracted 1. Nvidia Inspector Profile - FO4-23556-1-0-1559298967 folder and right click on Fallout 4 Nvidia Inspector.nip file and select Copy. Now go back to where you extracted the FO4 Nvidia Profile Inspector archive, double click on FO4 Nvidia Profile Inspector folder to open it, then right click on an unused space and select Paste (Copy and Replace – if asked).
 
@@ -105,7 +107,7 @@ If a version I push forth is NECESSARY in terms of updating due to some issue in
 ## You must do everything and carefully read through what is written below or you will not have a very good experience at all!
 
 
-### Holotapes
+## Holotapes
 
 After exiting the vault, DO NOT MOVE!  Configure the following holotape settings as shown below by opening each holotape listed from the Misc tab of your pip-boy.  SKK Feral Nights, Replace & Respawn Manager, and Random Encounter Manager should be enabled and configured as shown before Fallout 4-76 Open World.  It is recommended you open this page and read through this on a separate device so you can configure settings while the game is open on your computer.  Do not move from where you exited the vault until you have done everything as outlined below including Holotape/MCM configuration and restarting the game!!:
 
@@ -130,11 +132,12 @@ Enable this mod by activating it from its holotape under the Misc tab in the Pip
 ### Fallout 4-76 Open World Holotape
 
 Tweak all settings in this holotape exactly as shown in this image .  Setting everything exactly as shown here is vitally important.  You will have to click on the top replace humans with option several times to reach the CUSTOM option.  All other options in the holotape not shown in this image are entirely up to your preferences.  When finished click ENABLE Fallout 4-76 Open World [GO] at the bottom.  After you click Enable Fallout 4-76 Open World in the holotape, you will see a text popup that says "Fallout 4-76 is Preparing the Open World" in the top left corner.  This will continue to appear every few seconds until it is finished (typically takes 2-3 minutes).  Do not move while you are waiting and instead proceed to configure the settings below while you wait.  When it finishes you will see a new text popup appear that says Fallout 4-76 Open World is Ready (reference image).
-Whispering Hills Holotape
+
+#### Whispering Hills Holotape
 
 Whispering Hills has a holotape where you can configure settings related to the Otherworld.  You can either craft it at a chemistry station or the Universal Workbench or open console (~ tilde key) and type help whispering 4 note and then player.additem <item ID> (using the 8 digit ID returned from the help command) to spawn it via console and have it appear in the Misc tab of your pip-boy (see reference image).  The otherworld is when the Hell Dimension temporarily opens and waves of creatures will attack you in complete darkness.  The only way to escape is to hide inside a building and sleep until it (hopefully) goes away or kill each wave of the attacking horde.  You can increase/decrease the frequency of this event as well as the number of spawned NPC's per wave if you feel the default settings are too intense or not intense enough.  I would recommend you not mess with anything under the tabs not related to the Otherworld as this may affect visuals or settings in ways that were not intended or optimized for the provided ENB/visual setup.
 
-### MCM Configuration
+## MCM Configuration
 
 While you wait for Fallout 4-76 Open World to finish running, open the Mod Configuration Menu (MCM) by pausing and clicking the Mod Config option at the top.  Be sure you have configured your holotapes and set up everything else you need to be ready to play because after you apply this preset FallSouls will go into effect and the game will no longer pause via the pause menu or pip-boy as it does traditionally.  Certain things like opening console (~) and message boxes will still pause the game but most traditional means of pausing will no longer work.
 
@@ -142,7 +145,7 @@ After opening the MCM, open the top MCM Settings Manager listing and you will se
 
 **After you see the message that Fallout 4-76 Open World is ready, you must save and then fully exit the game, relaunch, and reload that save before starting to play.**  This is to get everything set in working order and properly initialized before you really start to play.
 
-### ENB
+## ENB
 
 Whispering Chills includes its own ENB preset that you placed in your game directory from the Game Folder Files folder after installing this modlist.  If anything isn't to your liking visually, please check out my How to Configure ENB Presets Tutorial to learn how to configure any preset to your preferences.
 
@@ -212,7 +215,7 @@ This modlist includes the Photo Mode mod.  To use photo mode, pause the game and
 
 -Whispering Chills is a very difficult setup.  You will have to avoid many combat encounters and sneak your away around early on.  If the early game grind feels too difficult due to lack of humans to loot and lack of quest-based XP boosts, there are a couple helpful commands you can enter into the console (~) in-game to assist you.  Player.setlevel x where x is the level you wish to be set to can be used to raise your level along with gaining all the corresponding perk points.  CGF "Game.AddPerkPoints" x (include the quotes) where x is the number of perk points you wish to add can be used to simply add perk points to use in the level up menu without actually levelling up your character.  You can also install the Cheat Terminal mod and place it anywhere in your load order to make for a far less difficult experience where you have the ability to adjust any aspect of the game or spawn in items freely.  Bear in mind the higher you set your level, the more difficult things will become as higher level enemies will spawn per our dynamic custom spawn system.
 
--FallSouls may break certain quests from tracking in the Data tab of the Pip-Boy (never experienced this myself).  This, however, works in my favored preference as I encourage open exploration and coming across objectives naturally.
+-FallSouls MAY break certain quests from tracking in the Data tab of the Pip-Boy (never experienced this myself).  This, however, works in my favored preference as I encourage open exploration and coming across objectives naturally.
 
 
 
@@ -229,7 +232,9 @@ This modlist includes the Photo Mode mod.  To use photo mode, pause the game and
 
 
 
-Texture Overhauls (OPTIONAL)
+
+  
+  ## Texture Overhauls (OPTIONAL)
 
 Before starting this section, please note that it is entirely OPTIONAL and can be done at any time.  This modlist is not designed for beauty and you honestly won’t really notice much of a difference with or without retextures in this setup given the drab, desaturated color palette and visual style.  This is my preferred method of foundational texture overhaul just to offer SOMETHING, but it may not fit everyone's tastes or run suitably on everyone's hardware so proceed at your own discretion.  
   
@@ -238,4 +243,11 @@ Luxor's work overhauls textures across the entire game and uses the BRB texture 
 Please note that the download size of all 15 textures archives from the HD overhaul is around 48 GB in total, so you will need to download them to a drive that can store that much data.  This may seem like a lot, however that's only about 30 GB more than the vanilla texture archives and very appropriate when compared to how much space would be taken up by installing/downloading hundreds of separate texture mods instead.
 
 Manually download all 15 main file archives from Luxor's Fallout 4 HD Overhaul.  Extract the ba2 files within each anywhere on your computer and then compress all 15 of these into a SINGLE zipped file titled Fallout 4 HD Overhaul or something fitting (this may take a while to compress depending on your disk drive speed).  Then install this archive in MO2 and place it at the very TOP of the left pane just below the cleaned ESM’s.  To manually install a mod archive click on the CD icon in the top-left corner of MO2 and select the downloaded archive (reference image).  The installation process likewise may take a long time to complete.  Be patient.
+  
+  # Questions/Comments/Concerns?
+  
+  Ping me in (TBD WJ SUPPORT CHANNEL IF APPROVED)
+  
+  # Changelog
+  See changelog.md
 
