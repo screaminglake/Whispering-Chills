@@ -53,7 +53,7 @@ In either case, **make sure you LAUNCH Fallout 4 through steam when installation
 
 Lastly, right-click on the listing for Fallout 4 in the Library tab of Steam and select Properties...  Under the opening General tab UNCHECK the box next to enabling Steam Overlay in-game.  Under the Updates tab set the first drop-down for update method from Automatic Updates to "Only update this game when I launch it" so that any potential game updates don't mess with your modded setup.
 
-
+If you are not deciding to reinstall for this, be aware that any files which you have added directly to or edited within the Fallout 4 directory may interfere with the installation process.  For example, if you followed the manual version of this guide at one point and cleaned your DLC esm's in FO4Edit, you'll have to replace the esm's in the Fallout 4/Data folder with your vanilla backups or verify integrity of game files through Steam to restore them and clear out any other files you added directly to the game directory.  This Wabbajack install will include all you need.
 
 
 ## NVIDIA Profile Inspector
