@@ -77,9 +77,9 @@ Finally, before installing Whispering Chills, **run this AIO installer** for all
 
 Download Wabbajack from the home page (blue download button) https://www.wabbajack.org/#/
 
-Place Wabbjack.exe in a new root folder on one of your drives (e.g. E:/Wabbajack).  Run this exe and then once Wabbajack is fully installed select the big Install From Disk option in the middle.  You’ll then have to specify 3 paths for install.
+Place Wabbjack.exe in a new root folder on one of your drives (e.g. E:/Wabbajack).  Run this exe and then once Wabbajack is fully installed select the big Browse Modlists button.  Search for Whispering Chills among the offerings here.  You can filter by Fallout 4 at the top to help your search.  Then click the download button for the Whispering Chills listing.  You’ll then have to specify 3 paths for install.
 
-Target Modlist:  Download the wabbjack file for this unofficial modlist [from here](https://drive.google.com/drive/folders/1B3PAale0jS69i9SUBW2ItAX8urDFHydb?usp=sharing) and then specify its path on your computer here (e.g. E:/Wabbajack/Whispering Chills Unofficial.wabbajack) --> This will be updated to refer to the WJ UI if it becomes official
+Target Modlist:  Should automatically be specified after selecting this in the UI.
 
 Installation Location:  The location where this modlist will install to.  Create a new root folder ideally on the same drive as where you have Fallout 4 and Wabbajack installed and path to this folder here (e.g.  E:/Whispering Chills)
 
@@ -91,7 +91,7 @@ Click the Play button and if you are a Nexus Premium user it will all automatica
 
 # After Installing the Modlist
 
-Once everything is finished Wabbjack will turn green and say Installation Complete.  If you have any issues installing please ping me in the #unofficial-modlist-support channel and I will respond ASAP (this will be updated to refer to the appropriate support channel if made official)!  
+Once everything is finished Wabbjack will turn green and say Installation Complete.  If you have any issues installing please ping me in the #wc-support channel on our Discord server and I will respond ASAP!  
 
 Now go to the folder where you installed this modlist to and open the folder within called **Game Folder Files**.  Copy ALL of the contents within it to your game directory (where the game is installed; i.e. steamapps/common/Fallout 4).  Make sure you copy all the contents WITHIN this folder to the ROOT of where the game is installed (where the game’s executable is) and **not the Game Folder Files folder itself**!
 
@@ -250,7 +250,7 @@ Manually download all 15 main file archives from Luxor's Fallout 4 HD Overhaul. 
   
   # Questions/Comments/Concerns?
   
-  Ping me in (TBD WJ SUPPORT CHANNEL IF APPROVED)
+  Ping me in the #wc-support channel in our [Discord Server] (https://discord.gg/collectivemodding)
   
   # Changelog
   See [changelog.md](https://github.com/screaminglake/Whispering-Chills/blob/main/changelog.md)
