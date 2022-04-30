@@ -17,8 +17,8 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://imgur.com/DLLgJNw",
-      "readme": "https://github.com/screaminglake/Whispering-Chills/blob/main/README.md",
+      "image": "https://i.imgur.com/DLLgJNw.png",
+      "readme": "https://raw.githubusercontent.com/screaminglake/Whispering-Chills/main/README.md",
       "download": "https://authored-files.wabbajack.org/Whispering%20Chills.wabbajack_a83f7296-5821-4c7b-b148-04264c044e12",
       "machineURL": "WhisperingChills",
       "discordURL": "https://discord.gg/collectivemodding"
