@@ -100,7 +100,9 @@ To actually play Whispering Chills, launch ModOrganizer.exe from within the inst
 Please note that this setup defaults to 1440p resolution.  If you only have a 1080p monitor, open MO2’s INI editor and switch the isizeH and isizeW values to match those of your monitor under the [Display] section of the fallout4prefs.ini tab ([reference image](https://imgur.com/f64WmSQ)).
 
 
-# Updates (written for official release if approved)
+
+
+# Updates 
 
 Whenever the Wabbajack version of Whispering Chills updates, it is to be assumed that the update will require a new save/playthrough.  Whispering Chills is what I would consider “feature complete” in that only very minor things are likely to change with it in the months ahead following over a year of development time to get it to this point.  When an update is pushed, feel free to carry on with things as they are currently with your current version.  It is recommended you NOT update this modlist given that it WILL delete any mods I’ve decided to remove from the modlist (which happens often) thereby breaking your current playthrough most likely AND it will remove all mods you added to the build yourself including any weapon mods.  
 
