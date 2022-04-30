@@ -252,7 +252,7 @@ Manually download all 15 main file archives from Luxor's Fallout 4 HD Overhaul. 
   
   # Questions/Comments/Concerns?
   
-  Ping me in the #wc-support channel in our [Discord Server](https://discord.gg/collectivemodding)
+  Ping me in the #wc-support channel in our [Discord Server](https://discord.gg/collectivemodding) .  You must pass the verification bot check and select the Fallout 4 game role in our #welcome channel before you will be able to see the #wc-support channel [reference image](https://imgur.com/9AJhdHi)
   
   # Changelog
   See [changelog.md](https://github.com/screaminglake/Whispering-Chills/blob/main/changelog.md)
