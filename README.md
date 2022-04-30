@@ -91,7 +91,7 @@ Click the Play button and if you are a Nexus Premium user it will all automatica
 
 # After Installing the Modlist
 
-Once everything is finished Wabbjack will turn green and say Installation Complete.  If you have any issues installing please ping me in the #wc-support channel on our Discord server and I will respond ASAP!  
+Once everything is finished Wabbjack will turn green and say Installation Complete.  If you have any issues installing please ping me in the #wc-support channel on our [Discord Server](https://discord.gg/collectivemodding) and I will respond ASAP!  
 
 Now go to the folder where you installed this modlist to and open the folder within called **Game Folder Files**.  Copy ALL of the contents within it to your game directory (where the game is installed; i.e. steamapps/common/Fallout 4).  Make sure you copy all the contents WITHIN this folder to the ROOT of where the game is installed (where the game’s executable is) and **not the Game Folder Files folder itself**!
 
