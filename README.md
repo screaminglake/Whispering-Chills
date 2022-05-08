@@ -7,6 +7,8 @@
 
 [Trailer/video footage](https://youtu.be/Ux0z3Ul9R3g) 
 
+[Support server](https://discord.gg/strraNQxEQ)
+
 Whispering Chills is a horror experience unlike any other.  It is intended to be entirely standalone in that you don't need to enjoy or know very well how to play Fallout 4 to be able to enjoy it as a horror fan in general.  Perfect for anyone experiencing burnout in their other modded setups.  It is about as "lore-unfriendly" as you can get purely using the engine as a vessel to craft an entirely new experience through a unique combination of mods that enhance/rework its core mechanics and add new content that entirely change its core focus.  Unlike most other Bethesda games where the horror element feels tacked on at best even using mods, the amazing modding community around this game has afforded us the opportunity to overhaul the Fallout 4 experience into an entirely unique other experience.  The core premise revolves around an alternate vision of the Commonwealth where a door to the paranormal dimension has allowed for literal hell on earth to take over and has left very little remains in its wake.  Your ultimate goal and place in this hellscape is for you to decide.  
 
 We've stripped away several trademarks of the base game to distinguish this as a standalone experience based in its own universe.  Almost all vanilla NPC’s have been replaced with terrifying monsters from several mods installed in the modlist.  All vanilla questlines have been replaced with more fitting, horror-based ones.  It involves a custom dynamic spawn system using SKK mods as the foundation, allowing us to breathe an unprecedented level of creature variety into the Commonwealth (including spawning GRIM creatures without having to activate the curse).  The entire soundscape from music and audio cues to ambient noises and creatures sounds have been reworked to fit the environment.  And this is just the beginning.  If you are looking for a truly unique and DIFFERENT playthrough for Fallout 4, this is it!
@@ -91,7 +93,7 @@ Click the Play button and if you are a Nexus Premium user it will all automatica
 
 # After Installing the Modlist
 
-Once everything is finished Wabbjack will turn green and say Installation Complete.  If you have any issues installing please ping me in the #wc-support channel on our [Discord Server](https://discord.gg/collectivemodding) and I will respond ASAP!  
+Once everything is finished Wabbjack will turn green and say Installation Complete.  If you have any issues installing please ping me in the #wc-support channel on our [Discord Server](https://discord.gg/strraNQxEQ) and I will respond ASAP!  
 
 Now go to the folder where you installed this modlist to and open the folder within called **Game Folder Files**.  Copy ALL of the contents within it to your game directory (where the game is installed; i.e. steamapps/common/Fallout 4).  Make sure you copy all the contents WITHIN this folder to the ROOT of where the game is installed (where the game’s executable is) and **not the Game Folder Files folder itself**!
 
@@ -252,7 +254,7 @@ Manually download all 15 main file archives from Luxor's Fallout 4 HD Overhaul. 
   
   # Questions/Comments/Concerns?
   
-  Ping me in the #wc-support channel in our [Discord Server](https://discord.gg/collectivemodding) .  You must pass the verification bot check and select the Fallout 4 game role in our #welcome channel before you will be able to see the #wc-support channel [reference image](https://imgur.com/9AJhdHi)
+Ping me in the #wc-support channel in our [Discord Server](https://discord.gg/strraNQxEQ).  You must select the Whispering Chills role in #welcome and then click [this link](https://discord.com/channels/972218144569557062/972224969499111434/972929931032014969) to be redirected to the support channel.
   
   # Changelog
   See [changelog.md](https://github.com/screaminglake/Whispering-Chills/blob/main/changelog.md)
