@@ -8,30 +8,33 @@
       "github/screaminglake"
     ],
     "game": "fallout4",
+    "official": false,
     "tags": [
       "horror",
       "total conversion"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": true,
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
       "image": "https://i.imgur.com/DLLgJNw.png",
       "readme": "https://raw.githubusercontent.com/screaminglake/Whispering-Chills/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Whispering%20Chills.wabbajack_a83f7296-5821-4c7b-b148-04264c044e12",
+      "download": "https://authored-files.wabbajack.org/Whispering Chills.wabbajack_ae99202a-9f59-4977-b59b-ea15649bf03d",
       "machineURL": "Whispering-Chills",
       "discordURL": "https://discord.gg/strraNQxEQ"
     },
     "download_metadata": {
-  "$type": "DownloadMetadata, Wabbajack.Lib",
-  "Hash": "z5fa1tUn35o=",
-  "Size": 7391941,
-  "NumberOfArchives": 159,
-  "SizeOfArchives": 14705082353,
-  "NumberOfInstalledFiles": 8057,
-  "SizeOfInstalledFiles": 19272474265
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "iUY74D6+KDk=",
+      "Size": 7391954,
+      "NumberOfArchives": 159,
+      "SizeOfArchives": 14705082353,
+      "NumberOfInstalledFiles": 8057,
+      "SizeOfInstalledFiles": 19272474252
     },
-    "version": "3.4"
+    "version": "3.4",
+    "RepositoryName": ""
   }
 ]
