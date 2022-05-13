@@ -149,7 +149,7 @@ Whispering Hills has a holotape where you can configure settings related to the 
 
 While you wait for Fallout 4-76 Open World to finish running, open the Mod Configuration Menu (MCM) by pausing and clicking the Mod Config option at the top.  Be sure you have configured your holotapes and set up everything else you need to be ready to play because after you apply this preset FallSouls will go into effect and the game will no longer pause via the pause menu or pip-boy as it does traditionally.  Certain things like opening console (~) and message boxes will still pause the game but most traditional means of pausing will no longer work.
 
-After opening the MCM, open the top MCM Settings Manager listing and you will see a listing in the right pane under the Presets section titled WC MCM Settings with an option next to it to apply which you should click now ([see reference image](https://imgur.com/Z1jASPs)).  You will have to disconnect your controller briefly and click the Apply button (if using one).  Click yes on the prompt to apply the preset then reload the MCM when prompted on the left and now everything will go into effect!  You can change any MCM settings per mod to your liking afterwards here but everything has already been set to provide the ideal, intended experience.
+After opening the MCM, open the top MCM Settings Manager listing and you will see a listing in the right pane under the Presets section titled WC MCM Settings with an option next to it to apply which you should click now ([see reference image](https://imgur.com/Z1jASPs)).  Click yes on the prompt to apply the preset then reload the MCM when prompted on the left and now everything will go into effect!  You can change any MCM settings per mod to your liking afterwards here but everything has already been set to provide the ideal, intended experience.
 
 **After you see the message that Fallout 4-76 Open World is ready, you must save and then fully exit the game, relaunch, and reload that save before starting to play.**  This is to get everything set in working order and properly initialized before you really start to play.
 
@@ -183,20 +183,12 @@ General tips for saving performance on EITHER profile:
 
 If at any time you crash while playing this setup, a crash log will be produced by Buffout in your Documents\My Games\Fallout4\F4SE folder and will be named something along the lines of crash-2020-12-04-23-32-30.log.  Please share these with me in #unofficial-modlist-support **(update to support channel if approved as official)** and I will attempt to troubleshoot the cause.  I haven’t come across any repeatable, avoidable crashes yet in the latest version of this modlist!
 
-## Adding mods to the modlist (weapons)
-
-As with the rest of the Wabbajack community, I’m generally against supporting the addition of mods to this modlist.  Please launch and set up everything exactly as instructed and verify everything is working by testing for an hour or two BEFORE you start adding your own mods.  Otherwise it is impossible to determine where your issues are stemming from.  With this setup, I will only provide support for the addition of mods to the extent of very MINOR QoL additions or weapon/equipment mods.  I left the Equipment/Weapons section of the left pane of MO2 intentionally rather empty because I don’t want to dictate how you want this modlist to play out.  If you are going for more pure survival horror, you might go with more conservative and less overpowered weapons and equipment.  If you are roleplaying as a member of Umbrella Corps dropped in with elite tactical equipment to wipe out the demon spawns that have inhabited the Commonwealth by any means necessary, then who am I to stop you from doing that?  
-
-Any weapon/equipment mods you install should be placed within the Equipment-Weapons section in the left pane of MO2 for your own organizational purposes, and the plugins for them should be placed after the plugins for the existing equipment mods installed with the modlist (i.e. after Tactical Flashlights - Settings.esp and before _Balance_.esp in the right pane Plugins tab of MO2).  Make sure you do properly sort the plugins for any added weapons/equipments further up in the load order and don’t just leave them at the bottom.  
-
-Quick Modification Weapon is a mod installed with the modlist which allows you to swap out weapon modifications freely on the fly.  It is such a neat feature with an awesome UI design so I included it in the modlist, but it is only the framework.  You need to install weapon mods that are compatible with it in order to use it.  Check out [the description page for QMW](https://www.nexusmods.com/fallout4/mods/44985) to get a full listing of weapon mods you can install that will be compatible with QMW.  After installing these weapon mods, press the QMW hotkey (set to G by default, but you can change this to any hotkey in its MCM menu) in-game while having one of the QMW-compatible weapons equipped and the QMW menu will appear.
-
-For whatever mods you install over this modlist, you do so at your own risk/discretion as my support for additions will be limited and predicated on you ensuring the core modlist itself is already functional.  And I will expect you to read the description for any mods you add and ensure that you are using xEdit to determine if the mods you are adding introduce any conflicts to the modlist that must be resolved by shifting the load order or creating patches (see [this video](https://youtu.be/bEx_GcKz-BA) for details on xEdit conflict resolution).
-
 ## ECO Workbench Patcher
 
-Equipment and Crafting Overhaul (ECO) otherwise known as the modern day alternative to AWKCR/AE includes a convenient universal workbench which can be picked up right next to the vault after you exit (situated between two shipping containers just beside the vault entrance).  After picking up the workbench, you can place it down anywhere by dropping it from your inventory and then interact with it to craft any item you wish without having to stop at an official settlement workbench.  In order to have any weapons or items added by mods you’ve installed listed in this workbench, you must create your own workbench patch.
-
+Equipment and Crafting Overhaul (ECO) otherwise known as the modern day alternative to AWKCR/AE includes a convenient universal workbench which can be picked up right next to the vault after you exit (situated between two shipping containers just beside the vault entrance).  After picking up the workbench, you can place it down anywhere by dropping it from your inventory and then interact with it to craft any item you wish without having to stop at an official settlement workbench.  
+  
+  ## This modlist comes with a pre-configured universal workbench patch, but if you add or remove any mods you must create your own or disable the patch (last plugin in the load order).
+  
 Select ECO_WorkbenchPatcher as your executable in MO2 and click the Run button to start it ([see reference image](https://imgur.com/7Tga3No))!  A command prompt window will appear asking if you'd like to run the patcher.  Simply enter the letter Y and press enter.
 
 When FO4Edit opens, allow it to load all plugins by simply clicking ok on the module selection popup that appears.  Once all plugins are finished loading a popup will appear asking to select options for ECO Workbench Patcher.  Leave everything checked and click the New Patch button ([see reference image](https://imgur.com/hfbOUrV)).  
@@ -227,7 +219,7 @@ This modlist includes the Photo Mode mod.  To use photo mode, pause the game and
 
 
 
-
+## For whatever mods you install over this modlist, you do so at your own risk/discretion as my support is limited only to what is available in the modlist already.  Please read the description for any mods you add and ensure that you are using xEdit to determine if the mods you are adding introduce any conflicts to the modlist that must be resolved by shifting the load order or creating patches (see [this video](https://youtu.be/bEx_GcKz-BA) for details on xEdit conflict resolution).
 
 
 
