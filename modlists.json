@@ -22,20 +22,20 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://i.imgur.com/DLLgJNw.png",
       "readme": "https://raw.githubusercontent.com/screaminglake/Whispering-Chills/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Whispering%20Chills.wabbajack_ae99202a-9f59-4977-b59b-ea15649bf03d",
+      "download": "https://authored-files.wabbajack.org/Whispering Chills.wabbajack_a4427fc1-92ec-476b-8fa0-ee4ae57be639",
       "machineURL": "Whispering-Chills",
       "discordURL": "https://discord.gg/strraNQxEQ"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "iUY74D6+KDk=",
-      "Size": 7391954,
-      "NumberOfArchives": 159,
-      "SizeOfArchives": 14705082353,
-      "NumberOfInstalledFiles": 8057,
-      "SizeOfInstalledFiles": 19272474252
+      "Hash": "PFcH8eveYOA=",
+      "Size": 9961840,
+      "NumberOfArchives": 169,
+      "SizeOfArchives": 14040006715,
+      "NumberOfInstalledFiles": 9149,
+      "SizeOfInstalledFiles": 18902967406
     },
-    "version": "3.4",
+    "version": "3.5",
     "RepositoryName": ""
   }
 ]
