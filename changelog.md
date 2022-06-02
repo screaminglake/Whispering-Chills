@@ -1,3 +1,21 @@
+# 3.5.1
+
+
+
+    Updated Equipment and Crafting Overhaul and its WJ workbench patch
+    Updated Campsite
+    Updated Hunter of the Commonwealth
+    Updated The Sewers (should now included music composed by yours truly)
+    Updated Workshop Framework
+    Updated FallEvil Mega Zombie Pack
+    Added new patch that fixes Vault 1080 quest not completing (you must aggro the overseer)
+    Added new patch that removes janky weapons added by Mutilated Dead Bodies
+    Removed feral brutes from replacement spawn cycles (too bullet spongey and hard to take on at lower levels)
+    Updated load order and related files as necessary
+
+
+
+
 # 3.5
 
 
