@@ -1,3 +1,13 @@
+# 3.5.5
+
+Updated Equipment and Crafting Overhaul and its WJ workbench patch
+Updated Wetness Shader Fix
+Updated Buffout (removed TBB redistributables)
+Updated The Sewers (should now included music composed by yours truly)
+Updated Hunter of the Commonwealth
+Updated enblocal.ini for ENB preset to set toggle key for preset to F12 key and to save screenshots in PNG format
+
+
 # 3.5.1
 
 
