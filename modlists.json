@@ -23,18 +23,18 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://i.imgur.com/E8TOewS.png",
       "readme": "https://www.fallout4experiences.com/whispering-chills",
-      "download": "https://authored-files.wabbajack.org/Whispering Chills.wabbajack_2cb4d29e-a772-4d14-8f61-6f9a50f3639b",
+      "download": "https://authored-files.wabbajack.org/Whispering Chills.wabbajack_2fb26227-d1ef-4bac-ad72-badf2f707d9a",
       "machineURL": "Whispering-Chills",
       "discordURL": "https://discord.gg/strraNQxEQ"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "4d7l7btLq0Y=",
-      "Size": 10258133,
+      "Hash": "G0yEIk8t+l4=",
+      "Size": 9881526,
       "NumberOfArchives": 168,
       "SizeOfArchives": 14198894083,
       "NumberOfInstalledFiles": 9247,
-      "SizeOfInstalledFiles": 19086899655
+      "SizeOfInstalledFiles": 19085647268
     },
     "version": "3.5.5",
     "RepositoryName": ""
