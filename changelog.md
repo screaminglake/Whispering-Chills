@@ -1,3 +1,21 @@
+# 3.6
+
+    -Added Resident Evil Saferoom <br />
+    -Added Silent Protagonist F4SE <br />
+    -Added Alien Isolation Sounds Replacer <br />
+    -Edited spawn levelled lists in the world and during otherworld events for new/more creature diversity <br />
+    -Updated Whispering Hills (new music, creatures, quests, etc) and patches against it <br />
+    -Updated Lost Audio Tweaks and patches <br />
+    -Updated High FPS Physics Fix (vsync now forced through this) <br />
+    -Updated Equipment and Crafting Overhaul and universal workbench patch <br />
+    -Updated Burst Impact Blast FX <br />
+    -Updated Ultimate Window Overhaul Redone <br />
+    -Updated Dark Sci-Fi Vault Retexture <br />
+    -Updated _Balance_ <br />
+    -Added patch to prevent removal of Daisy from Goodneighbor so player can purchase deed for Goodneighbor player condo from her <br />
+    -Removed older plugin-based Silent Protagonist
+
+
 # 3.5.5
 
     -Updated Equipment and Crafting Overhaul and its WJ workbench patch
