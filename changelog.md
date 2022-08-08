@@ -1,3 +1,13 @@
+# 3.6.5
+
+    -Updated Random Encounter Manager by SKK
+    -Updated Equipment and Crafting Overhaul and universal workbench patch 
+    -Updated The Curse of Blair Residence 
+    -Updated Unofficial Fallout 4 Patch 
+    -Updated Workshop Framework 
+    -Updated Whispering Hills
+    -Removed Campsite (conflicting attachment node caused player character to start on fire after flashlight attached in WH worldspace)
+
 # 3.6
 
     -Added Resident Evil Saferoom 
