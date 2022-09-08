@@ -1,3 +1,23 @@
+# 3.7 - Scorched Earth Update!
+
+    -Added Better Drumlin Diner 2.0
+    -Added VULKAN Landscape Retexture 
+    -Added South of the Sea - Atom's Storm 
+    -Added SKK Feral Nights MCM Menu (no longer need to configure this holotape) 
+    -Added SKK Random Encounter Manager MCM Menu (no longer need to configure this holotape) 
+    -Added FallUI - HUD and minimal layout
+    -Added FallUI - Workbench
+    -Added FallUI - Inventory
+    -Updated Equipment and Crafting Overhaul and its universal workbench patch
+    -Updated Survival Configuration Menu
+    -Updated Immersive Candles
+    -Updated Feral Ghoul Expansion Patch and updated patches to retain new types and fix levelled lists
+    -Updated Diamond City Ambience
+    -Updated Workshop Framework
+    -Resolved bug where Madison phasing in for the Kelly Macabre quest after level 25 would do damage to the player
+    -Removed Ada
+    -Reworked MCM Settings preset and patches based on other updates
+
 # 3.6.5
 
     -Updated Random Encounter Manager by SKK
