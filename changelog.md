@@ -6,12 +6,12 @@
     -Perk system has been entirely overhauled and there should no longer be any perks that are irrelevant in the context of WC
     -All vanilla armors have been renamed to be consistent with a world not tied to F4
     -Can't scrap houses in workshop mode and anything irrelevant to WC is no longer available to craft in workshop
-    -All ingestibles and chems have been renamed to something reflective of reality (i.e. stimpak = health stim; jet = methamphetamine, etc) and no more        rad-based medication in loot pools (placed ones remain)
+    -All ingestibles and chems have been renamed to something reflective of reality (i.e. stimpak = health stim; jet = methamphetamine, etc) and no more rad-based medication available to find or loot since there is no radiation in WC
     -All PA frames and pieces placed in the game have been removed
     -Less ammo and stim loot overall
-    -Balancing to incoming and outgoing damage which will be refined more over time.  Many attributes of all creatures have been edited as well as in          relation to the player for a more fair and consistent survival horror experience
+    -Balancing to incoming and outgoing damage which will be refined more over time.  Many attributes of all creatures have been edited as well as in relation to the player for a more fair and consistent survival horror experience
     -Added game config menu so users can tweak settings to their needs
-    -Weapons may occasionally jam.  Also no more automatic reloading.  You will have to reload manually each time you run out of ammo.  Reloading before        the clip is empty results in you dropping ammo in the clip (and thereby actually losing ammo) but you can pick it up after the fact if you drop it by      accident and remember to do so
+    -Weapons may occasionally jam.  Also no more automatic reloading.  You will have to reload manually each time you run out of ammo.  Reloading before the clip is empty results in you dropping ammo in the clip (and thereby actually losing ammo) but you can pick it up after the fact if you drop it by accident and remember to do so
     -Rewrite and rebalance of the Vault 1080 worldspace and questline
     -No more legendary, armor, weapon, or junk crafting via ECO's universal workbench
     
