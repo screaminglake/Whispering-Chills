@@ -1,3 +1,41 @@
+# 4.0 - Ultimate Survival Horror Overhaul Update!
+
+    The brunt of this update was made possible thanks to the hard work of Sweet6Shooter who took it upon themselves to entirely overhaul almost every aspect of Whispering Chills in their unofficial addon Sweet Whispers (https://www.nexusmods.com/fallout4/mods/64130) and has done truly amazing work on it.  Be sure to thank them in our Discord server!  Here is a generalized summary of some of the major changes, but I highly recommend reading through the description and changelog for Sweet Whispers to understand everything that has now changed in WC:
+    -Almost all enemies have been renamed in a WC lore-consistent way
+    -The stash behind the player home has been rebalanced to contain only absolute necessities and badass new apparel items
+    -Perk system has been entirely overhauled and there should no longer be any perks that are irrelevant in the context of WC
+    -All vanilla armors have been renamed to be consistent with a world not tied to F4
+    -Can't scrap houses in workshop mode and anything irrelevant to WC is no longer available to craft in workshop
+    -All ingestibles and chems have been renamed to something reflective of reality (i.e. stimpak = health stim; jet = methamphetamine, etc) and no more        rad-based medication in loot pools (placed ones remain)
+    -All PA frames and pieces placed in the game have been removed
+    -Less ammo and stim loot overall
+    -Balancing to incoming and outgoing damage which will be refined more over time.  Many attributes of all creatures have been edited as well as in          relation to the player for a more fair and consistent survival horror experience
+    -Added game config menu so users can tweak settings to their needs
+    -Weapons may occasionally jam.  Also no more automatic reloading.  You will have to reload manually each time you run out of ammo.  Reloading before        the clip is empty results in you dropping ammo in the clip (and thereby actually losing ammo) but you can pick it up after the fact if you drop it by      accident and remember to do so
+    -Rewrite and rebalance of the Vault 1080 worldspace and questline
+    -No more legendary, armor, weapon, or junk crafting via ECO's universal workbench
+    
+    Other changes made both routine and in tandem with Sweet Whispers recommendations:
+    -Added Better Weapon Scrap
+    -Added Immersive Weapon Scrapping 
+    -Added Levelled Item Framework 
+    -Added Weathered First Aid Kit
+    -Added SH3 SFX Replacements
+    -Added Manual Reload Simple (Complex Version)
+    -Added Ammo Boxes to Mags
+    -Added Game Configuration Menu
+    -Added LevelUpMenuEx
+    -Added Be Exceptional
+    -Added Humble Perks Pack
+    -Added Survival Outfit Collection
+    -Added Half Face Mask
+    -Updated Workshop Framework
+    -Updated Equipment and Crafting Overhaul and universal workbench patch
+    -Updated FallEvil - Mega Zombie Pack
+    -Reworked MCM Settings preset and patches based on other updates
+    -Removed West-Tek Tactical Optics
+    -Removed Dark Sci-Fi Vault Retexture
+
 # 3.7 - Scorched Earth Update!
 
     -Added Better Drumlin Diner 2.0
