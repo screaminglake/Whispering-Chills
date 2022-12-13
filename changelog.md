@@ -1,7 +1,8 @@
 # 4.1
 
     -More streamlined intro/setup...No opening cutscene or white foggy fade-in (Intro Tweaks mod).  Setup process has been mostly automated via M8r's brilliant MCM Settings Manager and MCM settings menu conversions for holotapes so be sure to revisit the website documentation as some steps have changed!
-    -Item sorting and tagging with automated integration of recipes into ECO's universal workbench using FallUI Item Sorter, Icon Library, and Complex Sorter! 
+    -Item sorting and tagging with automated integration of recipes into ECO's universal workbench using FallUI Item Sorter, Icon Library, and Complex Sorter!
+    -Reworked levelled lists to remove pukers, spitters, and most FGEP creatures so now creatures should be largely just zombies and paranormal entities
     -Added Fatigue - Enhanced Combat Realism which introduces wobble to the weapon when aiming down sights and also drains AP when firing down sights.  This can be disabled or tweaked to your liking in its MCM (See-Through Scopes also added as requirement but disabled via replacer ESP) 
     -Added Bullet in the Chamber purely for its Ammo Check (T hotkey) and lower/holster weapon (Y hotkey) functionality
     -Complete audio update/overhaul following a huge update to Lost Audio Tweaks introducing even more QoL audio edits and consistency between audio mods also now featuring Reverb and Ambience Overhaul - Tweaked for less problematic reverb effects, Melee Impact Overhaul, and Ambient Tunnels of Boston for even more spooky ambient sound effects down in the (vanilla) subway tunnels
