@@ -7,6 +7,7 @@
     -Complete audio update/overhaul following a huge update to Lost Audio Tweaks introducing even more QoL audio edits and consistency between audio mods also now featuring Reverb and Ambience Overhaul - Tweaked for less problematic reverb effects, Melee Impact Overhaul, and Ambient Tunnels of Boston for even more spooky ambient sound effects down in the (vanilla) subway tunnels
     -Related to above, FINALLY patched out the heavy male breathing that would occur at low health (even on female characters) due to GRIM.  Took me a long time to recognize this was not vanilla and determine the cause to resolve but glad it's gone now!
     -Removed _balance_ now allowing Game Configuration Menu to determine incoming and outgoing damages exclusively with no more annoying combat effects that mod brought with it!
+    -General performance optimizations (ensured proper previs/precombine carried over to Sweet Whispers for each cell/worldspaces.  Also INI tweaks)
     -Added Dark Sci-Fi Vault Retexture (it's back!)
     -Added Nightmare Raiders (some human apocalyptic fanatics can be found around the Commonwealth.  Don't feel ashamed having to defend yourself against them.  They've completely lost it!)
     -Added MCM Booster
