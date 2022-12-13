@@ -1,3 +1,38 @@
+# 4.1
+
+    -More streamlined intro/setup...No opening cutscene or white foggy fade-in (Intro Tweaks mod).  Setup process has been mostly automated via M8r's brilliant MCM Settings Manager and MCM settings menu conversions for holotapes so be sure to revisit the website documentation as some steps have changed!
+    -Item sorting and tagging with automated integration of recipes into ECO's universal workbench using FallUI Item Sorter, Icon Library, and Complex Sorter! 
+    -Added Fatigue - Enhanced Combat Realism which introduces wobble to the weapon when aiming down sights and also drains AP when firing down sights.  This can be disabled or tweaked to your liking in its MCM (See-Through Scopes also added as requirement but disabled via replacer ESP) 
+    -Added Bullet in the Chamber purely for its Ammo Check (T hotkey) and lower/holster weapon (Y hotkey) functionality
+    -Complete audio update/overhaul following a huge update to Lost Audio Tweaks introducing even more QoL audio edits and consistency between audio mods also now featuring Reverb and Ambience Overhaul - Tweaked for less problematic reverb effects, Melee Impact Overhaul, and Ambient Tunnels of Boston for even more spooky ambient sound effects down in the (vanilla) subway tunnels
+    -Related to above, FINALLY patched out the heavy male breathing that would occur at low health (even on female characters) due to GRIM.  Took me a long time to recognize this was not vanilla and determine the cause to resolve but glad it's gone now!
+    -Removed _balance_ now allowing Game Configuration Menu to determine incoming and outgoing damages exclusively with no more annoying combat effects that mod brought with it!
+    -Added Dark Sci-Fi Vault Retexture (it's back!)
+    -Added Nightmare Raiders (some human apocalyptic fanatics can be found around the Commonwealth.  Don't feel ashamed having to defend yourself against them.  They've completely lost it!)
+    -Added MCM Booster
+    -Added Looks Menu Customization Compendium Fix
+    -Added Leon's Outfit to starting chest (yes THAT Leon's outfit from Resident Evil)
+    -Updated Equipment and Crafting Overhaul
+    -Updated South of the Sea - Atom's Storm
+    -Updated Workshop Framework
+    -Updated FallUI - HUD
+    -Updated MCM Settings Manager
+    -Updated Resident Evil Saferooms (5 new saferooms, reworked RPD, new global stash!)
+    -Updated Inner City Ambience
+    -Updated FallUI - Workbench
+    -Updated Levelled Item Framework
+    -Updated Bus Stop Lighting
+    -Updated Red Rockets Glare Redone
+    -Updated Starlight Drive-In and Diner
+    -Updated SKK REM MCM Settings Menu
+    -Updated FallUI - Inventory
+    -Updated Multi Color Flares
+    -Updated Illuminated Billboards and Lighting
+    -Removed Some Assembly Required (no more PA is around)
+    -Removed Reverb and Ambience Overhaul (deprected by RAO - Tweaked)
+
+    
+
 # 4.0 - Ultimate Survival Horror Overhaul Update!
 
     The brunt of this update was made possible thanks to the hard work of Sweet6Shooter who took it upon themselves to entirely overhaul almost every aspect of Whispering Chills in their unofficial addon Sweet Whispers (https://www.nexusmods.com/fallout4/mods/64130) and has done truly amazing work on it.  Be sure to thank them in our Discord server!  Here is a generalized summary of some of the major changes, but I highly recommend reading through the description and changelog for Sweet Whispers to understand everything that has now changed in WC:
