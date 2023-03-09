@@ -1,3 +1,31 @@
+# 4.2
+
+    -General damage balancing making enemies not bullet sponges and also giving them logical weak points based on anatomy to kill faster
+    -AI/stealth detection edits from 4estGimp AI Edits and Stealth Detection System to make stealth more viable
+    -Previously blocked subway entrances are now open and available for use thanks to 4estGimp's SotC Precombine Fix and Subway Runner Map
+    -A brand new Silent Hill/Resident Evil-style dungeon quest to explore called Feed Me to the Monsters
+    -Several vanilla weapons have been replaced with more realistic/survival horror-esque equivalents
+    -Addition of Zorkaz's The Tunnels adding a new tunnel system by which to sneak your way past hordes of paranormal entities above ground
+    -Added Misc to Melee (now can use random miscellaneous items like kitchen knives, wrenches, etc. as weapons)
+    -Added A Forest Tree Trim (fewer instances of clipping trees)
+    -Added Very Zen Dark Caves (cave retexture)
+    -Added Fallout 4 Particle Patch with Gloomy Glass
+    -Added More Wildlife (don't forget the hunting system can be used to survive off harvested meat)
+    -Updated Lost Audio Tweaks
+    -Updated Window Overhaul Redone (windows now look and reflect better than ever)
+    -Updated Workshop Framework
+    -Updated The Sewers
+    -Updated Fatigue - Enhanced Combat Realism
+    -Updated Diamond City Ambience
+    -Updated Inner City Ambience
+    -Updated Equipment and Crafting Overhaul
+    -Updated Levelled Item Framework
+    -Updated Bullet Impact Overhaul
+    -Updated Physics Impact Overhaul
+    -Updated Red Rockets Glare Redone
+    -Updated South of the Sea (Atom's Storm)
+    -Updated MCM Settings preset and patches as necessary to accommodate aforementioned changes
+
 # 4.1
 
     -More streamlined intro/setup...No opening cutscene or white foggy fade-in (Intro Tweaks mod).  Setup process has been mostly automated via M8r's brilliant MCM Settings Manager and MCM settings menu conversions for holotapes so be sure to revisit the website documentation as some steps have changed!
