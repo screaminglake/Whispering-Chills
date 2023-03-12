@@ -1,5 +1,6 @@
 # 4.2
 
+    -Most workshop functionality has been disabled to encourage players to depend on the environment and player homes/safehouses instead of settlement building and cheat scrapping.  This can optionally be disabled by unchecking the Workshop Override.esp in the right pane plugins tab of MO2.
     -General damage balancing making enemies not bullet sponges and also giving them logical weak points based on anatomy to kill faster
     -AI/stealth detection edits from 4estGimp AI Edits and Stealth Detection System to make stealth more viable
     -Previously blocked subway entrances are now open and available for use thanks to 4estGimp's SotC Precombine Fix and Subway Runner Map
