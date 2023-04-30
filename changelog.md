@@ -1,3 +1,34 @@
+# 4.3 - The DEMENTIA Update!
+
+## Major Changes
+
+-Full texture overhaul of most things in the game to match the horror aesthetic including landscape, set dressing, architecture, interiors, mannequins, crates, and more!  Rust, decay, and unease runs through every inch of the Commonwealth now.  This is not the Commonwealth you know and recognize any longer.  Big credits to Project Dementia and MikMet (HappoMatka) for the brunt of the work here and expect more retextures from them fitting the horror vibe in the future! <br />
+
+-Addition of PTSD Mental Health Management System (credits to the author Ghostfc3s for all their help in making this work with WC).  To reinforce the idea that you are not meant to be an unstoppable killing machine, illing certain enemies will project a paranoid sense of mental deterioration upon you which will lead to things like night terrors when sleeping, hallucinations, and other disorienting side effects.  You must do things to lower your "PTSD level" such as consume drugs/alcohol, sleep more than 8 hours, consume antidepressants (can be purchased from robot vendors), or pet dogs.  Most aspects of the mod can be configured in the Mental Health Settings holotape.  I recommend turning off HUD overlays in the holotape after doing initial setup.  And if you come to find this system isn't to your liking you can disable/uncheck PTSD Mental Health Management System and the MHWH mod below it in the left pane of MO2 at the bottom of the Gameplay separator.  You will have to start a new game after doing this. <br />
+
+-Huge update to the Feed Me to the Monsters quest mod added in the previous update.  Spawn issues should be ironed out and entirely new areas to explore and quest sections have been fleshed out.  Seriously check out this mod when playing WC as the quality is on par with Whispering Hills! <br />
+
+## Other Changes
+
+-Added Illumination Glow Maps AIO to make certain objects that should glow in the dark actually do so <br />
+-Added Concord Personified for more places to explore in Concord (if you're brave enough!) <br />
+-Added Weapon debri crash fix for parity with all lists to eliminate that crash type <br />
+-Added Creepy paintings to help further match the otherworldly horror aesthetic (paintings now replaced with unnerving illustrations) <br />
+-Updated Levelled Item Framework <br />
+-Updated Lost Audio Tweaks <br />
+-Updated Ultimate Window Overhaul Redone <br />
+-Updated Survival Configuration Menu <br />
+-Updated Physics Impact Overhaul <br />
+-Updated Bullet Impact Overhaul <br />
+-Updated South of the Sea - Atom's Storm <br />
+-Updated Unofficial Fallout 4 Patch <br />
+-Removed More Wildlife (siren near vault should no longer get triggered by creatures added from this mod while you're doing initial configuration) <br />
+-Removed Vulkan Landscape Retexture (deprecated by Project Dementia) <br />
+-ENB preset update with slight tweaks to account for new textures; update to latest ENB libraries <br />
+-Updated patches as necessary for aforementioned updates
+
+
+
 # 4.2
 
     -Most workshop functionality has been disabled to encourage players to depend on the environment and player homes/safehouses instead of settlement building and cheat scrapping.  This can optionally be disabled by unchecking the Workshop Override.esp in the right pane plugins tab of MO2.
