@@ -1,4 +1,4 @@
-#5.0 (Prerelease) - Massive Overhaul!
+# 5.0 (Prerelease) - Massive Overhaul!
 
 ## Major Changes
 
