@@ -1,3 +1,59 @@
+#5.0 (Prerelease) - Massive Overhaul!
+
+## Major Changes
+
+-Major gameplay changes have been set forth that will force you to re-evaluate how you play WC and Fallout 4 in general.  A new blocking system where you can no longer just cheese your way through every combat encounter with melee.  Enemy attacks break blocks causing you to stagger and drain AP, leaving you vulnerable and some enemies can't be blocked. (Blocking Overhaul).  Cars can no longer be used as an easy "get out of combat for free with a big explosion card" as all vehicles have been retextured to fit the setting, are indestructible, and set off a car alarm whenever shot that attracts all nearby enemies, making stealth and carefully placed shots more important than ever (Elzee Car Alarms).  In the world of robotics, robot companions and pods that you could activate for safety are no longer present (Looted Robots).  Additionally, generators have been deactivated with their fusion cores removed and all associated light sources turned off (Depleted Fusion Generators).  And to make matters even worse, loot that you would expect to find typically in locations for vanilla have been removed in large swaths.  Resources are now harder than ever to come by, so make every bullet and aid item count (Looted World).  <br />
+
+-To make up for the reduction of loot overall, several buildings across the Commonwealth previously closed off in vanilla have now been opened and reimagined with custom environments and loot in locations such as Cambridge, Lexington, Malden, and several others.  More to explore as you desperately scrounge to survive (Open Commonwealth)  <br />
+
+-Now it isn't just the Commonwealth that this paranormal curse has inhabited.  The Wilderness mod in previous versions of the list makes a return as well as the new addition of Point Lookout.  And with both of these, the fogs of Silent Hill roll into them as well.  See both environments in a terrifying new light like never before.  All NPC's have been retained in Point Lookout for those wanting to play through the story, but the intention is more just to provide a new environment to explore so I have tested playing through it in WC.  Point Lookout now plays like a new Silent Hill with fog, creatures, and music imported from Whispering Hills.  <br />
+
+-Ingestibles now include custom animations, and with that, drugs have been entirely reworked with new names and retextures that align with real-world drugs for that extra bit of grounded immersion.  Ever wanted to see what it looks like to huff cocaine as a means of coping with the eternal dread surrounding you in Fallout 4?  Now you can (Modern Pharmacy, Immersive Animation Framework)!  <br />
+
+-A whole new line of creatures have been introduced into this update and all levelled lists for spawns have been remixed every 5 levels to include more variety than ever to hopefully eliminate some redundancies between enemy types. (Wasteland Bestiary - Wendigos, A Haunting)  <br />
+
+## Other Changes
+
+-Added Beyond the Commonwealth for music additions to custom cells and worldspaces <br />
+-Added Very Zen Church Doors and Windows <br />
+-Added Very Zen FGEP Textures (slashers and diseased zombies now look cooler than ever!) <br />
+-Added Makeshift Melee Weapon Pack <br />
+-Added Commonwealth Currency Overhaul (currency is now $ USD instead of caps) <br />
+-Added footstep sounds to Lickers and Pailheads (thanks Creed) <br />
+-Added Lucille <br />
+-Added Resident Evil Samurai Edge M9 <br />
+-Added Resident Evil Ammo Boxes Retexture <br />
+-Added Defective Synths (rare chance of synthoid zombies spawning amongst groups of enemies) <br />
+-Added Evil Dead Necromicron retexture for overdue books <br />
+-Added Commonwealth Horror Radio <br />
+-Added Silver Ghost - RE4 pistol <br />
+-Added The Backrooms - The Poolrooms - A Liminal ASYNC Experience (Yes THOSE backrooms!) <br />
+-Added Halloween 2 - Michael Myers Mask <br />
+-All weapons/clothing mentioned above were added to the stash behind the player home for your viewing/killing pleasure <br />
+-Updated Workshop Framework <br />
+-Updated South of the Sea - Atom's Storm (NEW Necropolis Settlement and various fixes) <br />
+-Updated The Tunnels <br />
+-Updated Hunter of the Commonwealth (2.0 release with reworked mechanics and fixes) <br />
+-Updated Levelled Item Framework <br />
+-Updated A Forest Tree Trim <br />
+-Updated Resident Evil Saferoom (Large expansion and fixes to RPD, new saferoom inspired by Evil Within 2, APC near Red Rocket that transports you to a rough recreation of Racoon City!) <br />
+-Updated Bullet in the Chamber <br />
+-Updated Bullet Impact Overhaul <br />
+-Updated Physics Impact Overhaul and Bullet Casing Sounds <br />
+-Updated Project Dementia (several new thematic retextures across the Commonwealth including vehicles, vaults, quarries, and many other things) <br />
+-Updated Fallout 4 Particle Patch <br />
+-Tweaked XP gain and outgoing damage in Game Config Menu <br />
+-Removed PTSD Mental Health System (gameplay systems too intrusive/hard to configure) <br />
+-Removed Private Military Company <br />
+-Removed Concord Personified <br />
+-Removed several lighting mods making it so lanterns are the only source of light at night <br />
+-Removed Feed Me to the Monsters (love this mod but too many technical issues under the hood to keep it in) <br />
+-Removed Dark Sci-Fi Vault Retexture (deprecated by Project Dementia v7 update) <br />
+-Created and reworked patches as necessary for above changes <br />
+-Reworked website documentation as necessary to accommodate update
+
+
+
 # 4.3 - The DEMENTIA Update!
 
 ## Major Changes
