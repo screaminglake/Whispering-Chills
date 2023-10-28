@@ -1,3 +1,12 @@
+# 5.0 Full Release!  (Technially 5.0.1)
+
+-Updated Whispering Hills to v7.01 now including Episode 4!  The journey continues! <br />
+-Added some more variety to spawn levelled lists <br />
+-Issued fix for game freeze on roast menu under cooking station <br />
+-Updated RE Saferooms - new content in Raccoon City <br />
+-Various patch updates to ensure new WH characters are kept and consistency fixes for WH weather/lighting/music across the Commonwealth <br />
+-New process for Mutilated Dead Bodies removal for streamers/content creators (optional) so be sure to watch the new video on the website if this applies to you!
+
 # 5.0 (Prerelease) - Massive Overhaul!
 
 ## Major Changes
