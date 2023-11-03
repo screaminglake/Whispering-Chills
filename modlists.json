@@ -21,21 +21,21 @@
     "links": {
       "image": "https://i.imgur.com/E8TOewS.png",
       "readme": "https://www.fallout4experiences.com/whispering-chills",
-      "download": "https://authored-files.wabbajack.org/Whispering Chills.wabbajack_0d7aecd4-8117-46f6-917f-cd9879c39c17",
+      "download": "https://authored-files.wabbajack.org/Whispering Chills.wabbajack_ab7b1985-6155-4701-9dc3-bd13633bf126",
       "machineURL": "Whispering-Chills",
       "discordURL": "https://discord.gg/strraNQxEQ"
     },
     "download_metadata": {
-      "Hash": "cprM9ugnNfo=",
-      "Size": 17586611,
-      "NumberOfArchives": 257,
-      "SizeOfArchives": 35761441654,
-      "NumberOfInstalledFiles": 10192,
-      "SizeOfInstalledFiles": 42825264696
+      "Hash": "L9QDTbEmhbA=",
+      "Size": 18261418,
+      "NumberOfArchives": 256,
+      "SizeOfArchives": 35801161553,
+      "NumberOfInstalledFiles": 10188,
+      "SizeOfInstalledFiles": 42829751781
     },
-    "version": "5.0.1",
+    "version": "5.0.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-10-28T16:08:55.5160268Z",
+    "dateUpdated": "2023-11-03T19:44:11.1595288Z",
     "repositoryName": ""
   }
 ]
