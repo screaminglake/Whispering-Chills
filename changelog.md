@@ -1,3 +1,8 @@
+#5.0.2 - Final Update
+
+-Updated Whispering Hills to v7.03 fixing several bugs and issues and updated patches to ensure the best possible WH experience <br />
+-Removed Hunter of the Commonwealth as it was removing key quest items from dead enemies
+
 # 5.0 Full Release!  (Technially 5.0.1)
 
 -Updated Whispering Hills to v7.01 now including Episode 4!  The journey continues! <br />
