@@ -1,4 +1,4 @@
-#5.0.2 - Final Update
+# 5.0.2 - Final Update
 
 -Updated Whispering Hills to v7.03 fixing several bugs and issues and updated patches to ensure the best possible WH experience <br />
 -Removed Hunter of the Commonwealth as it was removing key quest items from dead enemies
